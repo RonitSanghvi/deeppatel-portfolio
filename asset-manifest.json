@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deep_portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/deep_portfolio/static/js/main.1a33cc25.js",
+    "static/media/Degree.png": "/deep_portfolio/static/media/Degree.7fad839145cb4af64713.png",
+    "static/media/WSIB.jpg": "/deep_portfolio/static/media/WSIB.cdeb153108130e8e5bb6.jpg",
+    "static/media/PCC.png": "/deep_portfolio/static/media/PCC.58ecec92726c78f5d5c0.png",
+    "static/media/Maskfit.jpg": "/deep_portfolio/static/media/Maskfit.95b539914f78471bd2c5.jpg",
+    "static/media/FirstAid.png": "/deep_portfolio/static/media/FirstAid.d9c0d23237f61e17202d.png",
+    "static/media/BLS.png": "/deep_portfolio/static/media/BLS.de652c9d2e7402544308.png",
+    "static/media/DeepProfile.jpg": "/deep_portfolio/static/media/DeepProfile.ae0a136c49522f1120c0.jpg",
+    "static/media/Centennial College.jpg": "/deep_portfolio/static/media/Centennial College.2b500b578f7ff23eec08.jpg",
+    "index.html": "/deep_portfolio/index.html",
+    "main.bf538fe7.css.map": "/deep_portfolio/static/css/main.bf538fe7.css.map",
+    "main.1a33cc25.js.map": "/deep_portfolio/static/js/main.1a33cc25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1a33cc25.js"
+  ]
+}
